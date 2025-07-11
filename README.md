@@ -1,1 +1,1 @@
-# Credit_Information_Analysis
+# Resolution of Integrated Exercises: Credit_Information_Analysis
